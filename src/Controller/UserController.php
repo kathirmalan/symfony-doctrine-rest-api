@@ -104,7 +104,7 @@ class UserController extends AbstractController
     }
 
     /**
-     * @Route("/user_entity_relations", name="userEntityRelations")
+     * @Route("/user-entity-relations", name="userEntityRelations")
      */
     public function userEntityRelations(): Response
     {
